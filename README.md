@@ -4,6 +4,12 @@
 
 SafeDriveVisionV2 est un script Python utilisant OpenCV et Mediapipe pour surveiller l'attention du conducteur en temps réel. Le script détecte divers comportements tels que l'utilisation du téléphone portable, le sourire, la fermeture des yeux, et l'orientation de la tête. Il affiche les résultats dans deux fenêtres : une pour la vidéo et une autre pour les informations détectées.
 
+
+![CAPTURE](https://github.com/user-attachments/assets/e50d2e6f-4eda-4b9f-aafd-f09b3056c06f)
+
+
+
+
 ## Prérequis
 
 - Python 3.6+
