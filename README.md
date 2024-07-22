@@ -34,7 +34,7 @@ pip install opencv-python mediapipe imutils numpy
 3. Exécutez le script en utilisant les arguments nécessaires :
 
 ```bash
-python inference.py 
+python inference.py -p pro.txt -m SSD.caffemode
 
 ```
 
@@ -44,7 +44,7 @@ python inference.py
 --confidence : Niveau de confiance minimum pour filtrer les détections faibles (par défaut : 0.7)
 
 ```bash
-python inference.py
+python inference.py -p pro.txt -m SSD.caffemode
 ```
 
 # Fonctionnalités
