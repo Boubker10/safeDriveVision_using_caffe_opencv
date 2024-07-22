@@ -7,6 +7,10 @@ SafeDriveVisionV2 est un script Python utilisant OpenCV et Mediapipe pour survei
 
 ![CAPTURE](https://github.com/user-attachments/assets/e50d2e6f-4eda-4b9f-aafd-f09b3056c06f)
 
+![capcp](https://github.com/user-attachments/assets/12eea00f-e525-4521-96de-020754bc6092)
+
+![capcap](https://github.com/user-attachments/assets/31237958-7a80-481e-a269-ba9a3959ce56)
+
 
 
 
